@@ -1,4 +1,4 @@
-## Introduction to EXPRESS JS Part 2
+## Introduction to EXPRESS JS 
 
 - Application Programming Interface(API)
 - Connecting SQLite Database
